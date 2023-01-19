@@ -313,7 +313,7 @@ h2 { margin-top: 0; }
     .tm-site-nav-ul { display: block; }
 }
 
-@media (max-width: 550px) and (min-width: 501px) {
+@media (max-width : 921px ) and ( min-width : 501px ){
     .tm-list-item-img-big {
         width: 160px;
         height: 160px;
